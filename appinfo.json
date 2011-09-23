@@ -1,0 +1,10 @@
+{
+	"id": "com.awesomeapps.yourradio-enyo",
+	"version": "0.0.70",
+	"vendor": "Awesome Apps",
+	"type": "web",
+	"main": "index.html",
+	"title": "Your Radio (Enyo)",
+	"icon": "icon-first-gen-edited.PNG",
+	"uiRevision": 2
+}

@@ -1,0 +1,11 @@
+TO-DO
+
+Your Radio
+
+
+Associate with mime type .mp3 and .pls
+Make a 3 pane app
+ ~ 1st pane - stays the same
+ ~ 2nd pane - stays remotely the same
+    ~ Now Favorites List in the second pane for OWN URL (NEW)
+ ~ 3rd pane - now playing (NEW)
